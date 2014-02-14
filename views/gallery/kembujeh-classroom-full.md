@@ -1,1 +1,0 @@
-Another classroom at Kembujeh Lower Basic School after installation of ten Solar Bottle Bulbs.

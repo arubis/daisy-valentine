@@ -1,1 +1,0 @@
-The view from inside a perforated block window classroom at midday.

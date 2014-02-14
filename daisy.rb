@@ -19,22 +19,6 @@ get '/' do
   haml :main, :locals => { :text => markdown(:main), :title => "" }
 end
 
-get '/why' do
-  haml :why, :locals => { :title => "why | " }
-end
-
-get '/gallery' do
-  haml :gallery, :locals => { :title => "on location | "}
-end
-
-get '/colophon' do
-  haml :colophon, :locals => { :title => "colophon | " }
-end
-
-get '/about' do
-  haml :about, :locals => { :title => "about | " }
-end
-
 # get '/bootstrap' do
 #   haml :bootstrap, :layout => :layout_bootstrap
 # end

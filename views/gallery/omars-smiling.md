@@ -1,1 +1,0 @@
-Omar inspects the newly-installed Bottle Bulbs for the first time.

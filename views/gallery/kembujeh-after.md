@@ -1,1 +1,0 @@
-A classroom in the same building as the prior picture with solar bottle bulbs installed.

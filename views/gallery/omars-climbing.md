@@ -1,1 +1,0 @@
-Chief Carpenter Pa Demba gets topside, preparing to install preconstructed Bottle Bulb assemblies.

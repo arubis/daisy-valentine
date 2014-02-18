@@ -1,7 +1,18 @@
-// I gather this file is a starting point for the project.
+// customize bootstrap variables here:
+@import variables
 @import bootstrap
 
-// Include responsive Bootstrap styles
-@import "bootstrap-responsive"
+body
+  background-color: $gray
+  color: $gray-lighter
 
-@import "user"
+.love
+  @extend .col-md-6
+  @extend .col-md-offset-3
+
+.us
+  @extend .row
+  @extend .col-sm-8
+  @extend .col-sm-offset-2
+  img
+    width: 100%

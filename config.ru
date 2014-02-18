@@ -7,11 +7,7 @@ require 'thin'
 $: << File.dirname(__FILE__)
 require 'daisy'
 
-#use Rack::Static, :urls => ["/stylesheets", "/index.html", "/javascript"], :root => "public" # used to include /images too...
-
-#use Rack::Rewrite do
-#   rewrite '/', '/index.html'
-#end
+#use Rack::Static, :urls => ["/stylesheets", "/index.html", "/javascript"], :root => "public" 
+# that used to include /images too...
 
 run Sinatra::Application
-

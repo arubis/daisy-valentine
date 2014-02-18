@@ -19,6 +19,9 @@ get '/' do
   haml :main, :locals => { :text => markdown(:main), :title => "" }
 end
 
+# get '/images/:image' do |image|
+#   redirect 
+
 # get '/bootstrap' do
 #   haml :bootstrap, :layout => :layout_bootstrap
 # end
